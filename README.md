@@ -1,1 +1,2 @@
-# osm-sverige
+# OSM Sverige
+Stadgeförslag m.m.
