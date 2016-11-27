@@ -24,7 +24,7 @@ Styrelsen ansvarar för medlemsmatrikeln.
 Förlust av medlemskap
 ----------------------------
 
-Medlem som inte har betalat medlemsavgift för kalenderåret utträder ur föreningen 1 juli året efter.
+Medlem som inte har betalat medlemsavgift för kalenderåret utträder ur föreningen 1 juli.
 
 En medlem får begära omedelbart utträde ur föreningen. Detta ska ske skriftligt till styrelsen.
 
