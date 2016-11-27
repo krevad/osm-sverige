@@ -26,8 +26,6 @@ Förlust av medlemskap
 
 Medlem som inte har betalat medlemsavgift för kalenderåret utträder ur föreningen 1 juli året efter.
 
-[/]:# (Låter konstigt. Betyder inte det att den som betalar för 2016 men inte för 2017 utträder först den 1 juli 2018?)
-
 En medlem får begära omedelbart utträde ur föreningen. Detta ska ske skriftligt till styrelsen.
 
 Medlem som aktivt motarbetar föreningen får uteslutas efter styrelsens beslut. Utesluten medlem får återinträda i föreningen först när styrelsen godkänner det.
@@ -37,9 +35,7 @@ Medlem som aktivt motarbetar föreningen får uteslutas efter styrelsens beslut.
 
 En gång per år hålls ett ordinarie årsmöte, normalt under mars månad. Extra årsmöte får hållas när styrelsen beslutar om det eller om hälften av medlemmarna begär det. Extra årsmöte på medlemmarnas begäran ska hållas inom två månader om inte ordinarie årsmöte infaller under samma period.
 
-Ett årsmöte kallas genom att två kallelser skickas till medlemmarna. Den första kallelsen ska ange tid och plats för mötet och får skickas tidigast två månader innan mötet. Den andra kallelsen ska skickas senast en vecka innan mötet. Den andra kallelsen ska innehålla dagordningen för mötet samt de handlingar som behövs för att fatta beslut under årsmötet.
-
-[/]:# (Tidpunkt för kallelse borde kanske ändras, beroende lite på vad syftet med tidsgränserna är. Om så många som möjligt ska kunna närvara, är det viktigt att kalla i god tid. Exempelvis skulle regeln kunna vara att den första kallelsen skickas tidigast två månader och senast en månad innan mötet.)
+Ett årsmöte kallas genom att två kallelser skickas till medlemmarna. Den första kallelsen ska ange tid och plats för mötet och får skickas tidigast två månader, senast en månad, innan mötet. Den andra kallelsen ska skickas senast en vecka innan mötet. Den andra kallelsen ska innehålla dagordningen för mötet samt de handlingar som behövs för att fatta beslut under årsmötet.
 
 Under årsmötet har varje medlem en röst. Endast organisationer får rösta genom ombud. En person som är både medlem och ombud har endast en röst under årsmötet.
 
@@ -70,8 +66,6 @@ Följande frågor ska behandlas vid varje ordinarie årsmöte
 
 Frågor av större ekonomisk betydelse för föreningen eller dess medlemmar får endast behandlas på ett årsmöte, såvida de är upptagna i dagordningen i kallelsen till mötet, eller omedelbart föranleds av ett ärende i den dagordningen.
 
-[/]:# (Skulle man kunna ta bort ordet "ekonomisk" ovan? Med tanke på att föreningen inte väntas ha någon större budget, är det ingen vits att fokusera på ekonomin. Att exempelvis ändra stadgarna eller upplösa föreningen är däremot av stor betydelse för föreningen.)
-
 Styrelsen
 ----------------------------
 
@@ -94,8 +88,6 @@ Valberedning
 
 Valberedningen ska bestå av minst två personer, varav en sammankallande. Senast två veckor före årsmötet ska valberedningen lämna sitt förslag till val av ordförande, styrelseledamöter och revisorer. Andra kandidater ska antecknas i anslutning till förslaget.
 
-[/]:# (Eventuellt borde det framgå även vart valberedningen ska skicka förslaget.)
-
 Räkenskaps- och verksamhetsår
 ----------------------------
 
@@ -115,8 +107,6 @@ Revisorer
 ----------------------------
 
 Föreningen ska ha minst en, högst två revisorer, med lika många ersättare.
-
-[/]:# (Måste ersättarna vara lika många som revisorerna? Kan det inte vara "en, högst två ersättare"?)
 
 Revisorerna äger rätt att under löpande verksamhetsår ta del av räkenskaper och övriga handlingar som berör styrelsens förvaltning samt att delta i styrelsens sammanträden.
 
