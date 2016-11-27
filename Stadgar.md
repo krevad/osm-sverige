@@ -24,7 +24,7 @@ Styrelsen ansvarar för medlemsmatrikeln.
 Förlust av medlemskap
 ----------------------------
 
-Medlem som inte har betalat medlemsavgift för kalenderåret utträder ur föreningen 1 juli.
+Medlem som inte senast den 1 juli har betalat medlemsavgift för innevarande kalenderår får anses ha begärt utträde ur föreningen och ska tas bort ur medlemsmatrikeln.
 
 En medlem får begära omedelbart utträde ur föreningen. Detta ska ske skriftligt till styrelsen.
 
@@ -37,7 +37,7 @@ En gång per år hålls ett ordinarie årsmöte, normalt under mars månad. Extr
 
 Ett årsmöte kallas genom att två kallelser skickas till medlemmarna. Den första kallelsen ska ange tid och plats för mötet och får skickas tidigast två månader, senast en månad, innan mötet. Den andra kallelsen ska skickas senast en vecka innan mötet. Den andra kallelsen ska innehålla dagordningen för mötet samt de handlingar som behövs för att fatta beslut under årsmötet.
 
-Under årsmötet har varje medlem en röst. Endast organisationer får rösta genom ombud. En person som är både medlem och ombud har endast en röst under årsmötet.
+Under årsmötet har varje medlem en röst. Endast juridiska personer får rösta genom ombud. En person som är både medlem och ombud har endast en röst under årsmötet.
 
 Beslut fattas med enkel majoritet av vid mötet avgivna röster, utom då annat är stadgat.
 
@@ -106,7 +106,7 @@ Stadgeändring
 Revisorer
 ----------------------------
 
-Föreningen ska ha minst en, högst två revisorer, med lika många ersättare.
+Föreningen ska ha minst en och högst två revisorer med minst en och högst två ersättare.
 
 Revisorerna äger rätt att under löpande verksamhetsår ta del av räkenskaper och övriga handlingar som berör styrelsens förvaltning samt att delta i styrelsens sammanträden.
 
